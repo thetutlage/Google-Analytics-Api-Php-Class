@@ -5,7 +5,6 @@
  *************** @author :- Aman Virk ***************************
  **************  @uri :- www.thetutlage.com ********************
  ************** @browse all api and php class :- 
- http://www.thetutlage.com/index.html?parent=Tutorials&&child=Api&Classes
 */
 
 
